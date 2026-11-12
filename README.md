@@ -3,7 +3,7 @@
 Este es un proyecto de quiz de preguntas de cultura general que te permite poner a prueba tus conocimientos en diferentes áreas.
 
 ## Demo
-Puedes ver una demostración en vivo del quiz [http://127.0.0.1:5500/].
+Para verlo en local, abre `index.html` en el navegador o ejecuta `python -m http.server 8000` y visita `http://localhost:8000`. La dirección `127.0.0.1` no es una demo pública.
 
 ## Características
 
@@ -36,7 +36,7 @@ Puedes ver una demostración en vivo del quiz [http://127.0.0.1:5500/].
 Si deseas personalizar el quiz, aquí hay algunas sugerencias:
 
 - Agregar más preguntas: Puedes modificar el archivo JavaScript (`script.js`) para agregar tus propias preguntas y respuestas.
-- Cambiar el diseño: Personaliza los estilos CSS (`styles.css`) para que se ajusten a tus preferencias de diseño.
+- Cambiar el diseño: Personaliza los estilos CSS (`style.css`) para que se ajusten a tus preferencias de diseño.
 - Modificar la duración del juego: Ajusta el tiempo límite del quiz si lo deseas.
 
 ## Contribuciones
@@ -45,11 +45,11 @@ Si quieres contribuir a este proyecto, ¡estamos abiertos a sugerencias y mejora
 
 ## Autor
 
-Este proyecto fue creado por [https://github.com/raulwad13](#) 
+Este proyecto fue creado por [raulwad13](https://github.com/raulwad13) 
 
 ## Licencia
 
-Este proyecto está bajo la licencia [Bootcamp].
+No se incluye un archivo LICENSE; consulta al autor antes de reutilizar el código fuera de los términos de GitHub.
 
 ---
 
